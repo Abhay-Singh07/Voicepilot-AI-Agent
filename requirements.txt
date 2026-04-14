@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+groq
+python-dotenv
+python-multipart
+openai-whisper
+pydantic
+streamlit-mic-recorder
+
