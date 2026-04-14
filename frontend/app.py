@@ -1,11 +1,6 @@
 import sys
 from pathlib import Path
 import os
-
-# ROOT PATH FIX
-ROOT_DIR = Path(__file__).resolve().parent.parent
-sys.path.append(str(ROOT_DIR))
-
 import requests
 import streamlit as st
 from streamlit_mic_recorder import mic_recorder
